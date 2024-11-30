@@ -1,5 +1,9 @@
 [
   {
+    "repo": "https://github.com/chibiace/ComfyUI-Chibi-Nodes",
+    "commit": "b1dd86e"
+  },
+  {
     "repo": "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
     "commit": "b188a6c"
   },
