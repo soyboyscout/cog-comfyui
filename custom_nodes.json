@@ -1,5 +1,9 @@
 [
   {
+    "repo": "https://github.com/kijai/ComfyUI-KJNodes",
+    "commit": "2838126"
+  },
+  {
     "repo": "https://github.com/chibiace/ComfyUI-Chibi-Nodes",
     "commit": "b1dd86e"
   },
